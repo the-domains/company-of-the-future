@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Company of the Future]]></title>
         <description><![CDATA[Company of the Future]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/company-of-the-future/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 17:39:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Apr 2016 17:47:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/company-of-the-future/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b2f5ba3-c2eb-4bbd-9b14-b6496edb3f3e.jpg">]]></description>
+            <link>https://thegrid.ai/company-of-the-future/ff720523-c347-4ce6-9af2-94fd997e7650/index.html</link>
+            <guid isPermaLink="false">ff720523-c347-4ce6-9af2-94fd997e7650</guid>
+            <pubDate>Fri, 29 Apr 2016 17:46:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/015ee86f-12c0-4e09-9fae-7c0217d70903.png">]]></description>
-            <link>undefined4fac8a48-80d0-4676-9fe3-da3c95968d9c/index.html</link>
+            <link>https://thegrid.ai/company-of-the-future/4fac8a48-80d0-4676-9fe3-da3c95968d9c/index.html</link>
             <guid isPermaLink="false">4fac8a48-80d0-4676-9fe3-da3c95968d9c</guid>
             <pubDate>Fri, 29 Apr 2016 17:39:35 GMT</pubDate>
         </item>
